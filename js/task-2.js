@@ -1,0 +1,1 @@
+getUsersWithFriend(users, friendName)
